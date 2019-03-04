@@ -1,0 +1,124 @@
+Ansible, Vagrant
+Continuous Integration
+Ant, Maven,Gradle 
+RESTful web API
+ERP sistemleri
+PostgreSQL 
+Python Flask
+Monitoring araçları
+bash ve python script yazma
+SOAP, RESTful, JSON, XML
+TCP/IP, HTTP, SMTP, and FTP
+Hibernate, JPA, DataNucleus
+Jetty , JUnit, Guice, Groovy, and ActiveMQ
+Enterprise Storage Systems (Netapp, HP), SAN Switching Fabrics /
+Devops,Oracle
+Protocols (Cisco, Brocade)
+Data Replication ve Recovery (NetApp Snap Mirror, Netapp Snap Vault,
+Snap Restore, EMC RecoverPoint, SRDF)
+Enterprise Backup Systems (Symantec Netbackup)
+Windows Server 2003/2008, Linux
+Server Virtualization (Vmware, Hyper-V)
+LAN, WAN, Switching,  TCP/IP,  Ethernet
+SAN ve NAS
+DNS, LDAP, FTP, NTP, APACHE
+TCP/IP
+Load Balancer
+Http, Https, SSH, Telnet, FTP, FTPS
+Rundeck, Nagios, MRTS, PRTG 
+Cluster, RAC, High Availability, Redundancy 
+ Docker, Liferay, Kubernetes, Cloudify, 
+Marathon, Microservice
+system monitoring
+big data
+PostgreSQL, MySQL, Kafka
+bash scripting
+python, java, OOP
+pip, setup-tools, maven
+twisted, celery
+Restfull api
+json
+php
+HTML5, CSS, Bootstrap, jQuery, Ajax,
+postgresql, mysql
+docker
+scrapy
+nmap
+redis
+mrq
+docker swarm
+docker-machine
+docker-compose
+kubernete
+mongodb ve mongo querysi yazabilmeli
+unit test yazmış olmak
+openstack
+CNCF
+SDN
+NFS, LDAP, LVM, IMM/ILO/DRAC
+rhv / kvm, openstack, openshift 
+ruby, ansible
+Weblogic,11g & 12c, Tomcat
+Redmine, Trac
+GIT, SVN
+Ansible, saltstack, puppet 
+/etc/fstab
+ln – symbolic link 
+ln -s /sourcefile /destination-alias-file
+which 
+whereis 
+whatis
+join, split 
+sort
+du -h
+find
+uniq 
+wc, nl
+grep , egrep
+lsof
+ sysctl.conf
+ /var/log/kern.log
+Standard output (stdout – 1):
+Standard Input (stdin):
+Standard Error (stderr – 2):
+ls /crapola > out.txt 2>&1
+Pipe
+useradd
+passwd 
+chmod 
+chown
+chgrp
+umask
+setuid 
+immutable / sticky (chmod +i, chmod +t)
+e2fsck
+fdisk / cfdisk / parted 
+mkfs
+lvm, lvdisplay, lvextend
+/etc/fstab
+SIGHUP, SIGKILL
+ps -aux
+/etc/init.d.
+PID 
+Restart/stop/start a service
+rsyslogd
+ifconfig / ip
+/etc/sysconfig/network (redhat) , /etc/networking (debian)
+route / ip route
+arp, ping, traceroute, netstat
+dhclient, dhcpd, bind
+/etc/resolv.conf
+/etc/hosts
+inodes
+hostnamectl
+ssh, scp, sftp, rsync
+nfs, samba (SMB/CIFS)
+Apache, Python SimpleHTTPServer
+/var/log
+Some nasty applications log where they like. Grr, eg: /opt/app/log
+syslog/rsyslog
+dmesg / kern.log
+auth.log, lastlog, last, w	
+/etc/passwd
+/etc/shadow
+/etc/groups
